@@ -1,5 +1,5 @@
 # Word prediction IA
-This model was made with the help of [Just1Truc](https://github.com/Just1truc)
+This model was made with the help of [Just1Truc](https://github.com/Just1truc) and [Izimio](https://github.com/izimio)
 This script perfectly work on both Nvidia Cuda and casual CPU's according to your configuration. 
 
 ## Train
