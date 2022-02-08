@@ -23,12 +23,5 @@ python3 generate.py model_name.pt "some first words" <new words count>
 ```
 Your first words should be in dataset and written in lowercase.
 
-## Pretrained models
-If you don't have enough calculation process, we have a pretrained model for you in models folder.
-
-It was based on Macron's speechs thanks to the work of [Izimio](https://github.com/izimio)
-
-If you have a great trained model don't hesitate to PR !
-
 ## Functional Scheme
 ![Functional Scheme](https://raw.githubusercontent.com/MathiDEV/word_prediction_ia/main/IA%20PoC.png)
