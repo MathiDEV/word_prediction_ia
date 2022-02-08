@@ -31,3 +31,4 @@ It was based on Macron's speechs thanks to the work of [Izimio](https://github.c
 If you have a great trained model don't hesitate to PR !
 
 ## Functional Scheme
+![Functional Scheme](https://raw.githubusercontent.com/MathiDEV/word_prediction_ia/main/IA%20PoC.png)
